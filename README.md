@@ -1,12 +1,18 @@
-### Gabriel Aragão Correia de Araújo
-Estudante de Sistemas de Informação CIn - UFPE
+### Gabriel Aragão 
+- Sistemas de Informação CIn - UFPE 💻
+- Principais Linguagem: Python 🐍
+- Estudando: Python(Django) / HTML / CSS / C / C++ 👨‍💻
+- Contato: biel.aragao10@gmail.com ✉️
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaragao01&show_icons=true&theme=dracula)
 
-## Minhas Tecnologias de maior domínio
+## Minhas Tecnologias: 
 <div style="display: invisible_block"><br/>
-  <img align="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="cente" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br/>
 
-
+ :)
