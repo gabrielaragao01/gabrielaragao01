@@ -1,7 +1,7 @@
 ### Gabriel Aragão Correia de Araújo
 - Sistemas de Informação CIn - UFPE 💻
 - Principais Linguagens: Python 🐍
-- Estudando: Python(Django) / HTML / CSS / C / JavaScript / React / Assembly 👨‍💻
+- Estudando: Python(Django) / HTML / CSS / C / JS / SQL / Assembly 👨‍💻
 - Contato: <gaca@cin.ufpe.br> / <biel.aragao10@gmail.com>✉️
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaragao01&show_icons=true&theme=dracula)
