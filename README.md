@@ -1,10 +1,8 @@
 ### Gabriel Aragão Correia de Araújo
 - Sistemas de Informação CIn - UFPE 💻
-- Principais Linguagens: Python / JavaScripit / C / Java / Assembly / HTML / CSS  
-- Frameworks: Django / Node / AngularJS / 
+- Principais Linguagens: Python / JavaScripit / TypeScript / C / Java / Kotlin
+- Frameworks: Django / Node / Nest / AngularJS / Angular / React 
 - Contato: <gaca@cin.ufpe.br> / <biel.aragao10@gmail.com> / <gabriel.aragao@amigotech.com.br>✉️
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielaragao01&show_icons=true&theme=dracula)
 
 ## Minhas Tecnologias: 
 <div style="display: inline_block">
