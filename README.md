@@ -1,26 +1,25 @@
-# Hi there, I'm Gabriel Aragão! 👋
-
-### Backend Software Engineer | Information Systems @ UFPE
-
-I am a software developer focused on building scalable, high-performance systems. I bridge the gap between clean architecture and practical execution, applying **SOLID**, **Clean Code**, and **Design Patterns** (Proxy, Decorator, Observer) to deliver robust software. 
-
-Currently, I'm specializing in **Golang** to solve complex performance bottlenecks and exploring **Generative AI** to automate workflows and enhance productivity.
-
-- 🎓 Final year Information Systems student at **CIn - UFPE**.
-- 🚀 Experienced in migrating legacy **Node.js** systems to **Go** for high-concurrency environments.
-- 🤖 Building AI-driven tools, such as intelligent webhook hubs and automated content pipelines.
-
----
+# Hi there 👋
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 **Backend & Infrastructure**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,6 +27,7 @@ Currently, I'm specializing in **Golang** to solve complex performance bottlenec
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Engineering & Productivity**
+
 - **Architecture:** SOLID, Clean Architecture, Design Patterns.
 - **Workflow:** Webhooks (ngrok), Git, CI/CD.
 
@@ -45,4 +45,5 @@ Currently, I'm specializing in **Golang** to solve complex performance bottlenec
 </div>
 
 ---
-*"Code is like humor. When you have to explain it, it’s bad."*
+
+*"Code is like humor. When you have to explain it, it's bad."*
